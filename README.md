@@ -1,7 +1,14 @@
-# hello-world
+# Namrata Nadagouda
 
-# About me
+### About Me
+I am a PhD student in <a href="https://www.ece.gatech.edu/" target="_blank">Electrical & Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>.
 
-I am student at PES University
+### Publication
+
+### Poster
+
+### Contacts
+
+
 
 
